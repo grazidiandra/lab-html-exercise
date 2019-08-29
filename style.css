@@ -153,6 +153,8 @@ color: black;
   transform: skew(9deg,0deg);
   font-style: italic;
   margin: 70px 0 0 0;
+  padding: 0 30px;
+  height: 40px;
 }
 
 .article2{
